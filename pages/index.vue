@@ -507,19 +507,19 @@
   }
   .atieh a img{
     height: 180px;
-    width: 200px;
+    width: auto;
   }
   .shariati a img{
     height: 180px;
-    width: 200px;
+    width: auto;
   }
   .tehran a img{
     height: 180px;
-    width: 200px;
+    width: auto;
   }
   .oloum a img{
     height: 180px;
-    width: 200px;
+    width: auto;
   }
 
   .atieh a img:hover {
